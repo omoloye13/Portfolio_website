@@ -1,0 +1,23 @@
+{
+    "works" :[
+		{
+			"imgs":"../images/logo.png",
+			"title1": "Coursework",    
+		   "text1": "Coursework is an e-learning platform that helps school students with their school assignment."	,
+           "link1":"http://courseworka.herokuapp.com/"
+		},
+		{
+			"imgs":"../images/advice_logo.png",
+			"title1": "Advice Generator App",    
+		   "text1": "Advice generator is an app to get a random advice the application was developed using an advice slip API",
+           "link1": "https://advice-generator-app-livid-six.vercel.app/"	
+		},
+		{
+			"imgs":"../images/movie_logo.png",
+			"title1": "MoviePire",    
+		   "text1": "MoviePire is a movie search application which was developed using a movie API ",
+           "link1": "https://movie-app-zeta-teal.vercel.app/"	
+		}
+		
+	]
+}
